@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio Sanchez</h1>
 <h3 align="center">Java Fullstack Dev en _coderio | Software Company // #Speaker // Co-Owner #JavaBsAs #JUG #Community //Profe de JavaFullStack & SeleccionIT Avanzado</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maurisan4011" alt="maurisan4011" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=maurisan4011" alt="maurisan4011" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/maurideveloper" target="blank"><img src="https://img.shields.io/twitter/follow/maurideveloper?logo=twitter&style=for-the-badge" alt="maurideveloper" /></a> </p>
 
