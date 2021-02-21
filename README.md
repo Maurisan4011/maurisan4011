@@ -8,7 +8,7 @@
 </a>
 
 
-<a href="https://linkedin.com/in/maurisandev"><h3 align="left">📞Connect with me:</h3></a>
+<a href="https://linkedin.com/in/maurisandev"><h3>📞Connect with me:</h3></a>
 --
 - 🔭 I’m currently working on [_Coderio | Software Company](https://coderio.co/)
 
@@ -16,7 +16,7 @@
 
 
 <p align="left">
-<a href="https://codepen.io/maurisan4011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maurisan4011" height="30" width="40" /></a>
+<a color="blue" href="https://codepen.io/maurisan4011" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maurisan4011" height="30" width="40" /></a>
 <a href="https://twitter.com/maurideveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maurideveloper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maurisandev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maurisandev" height="30" width="40" /></a>
 <a href="https://codesandbox.com/maurisandev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maurisandev" height="30" width="40" /></a>
@@ -24,6 +24,17 @@
 
 ---
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+
+
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurisan4011&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurisan4011&langs_count=10&hide=RichTextFormat,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
