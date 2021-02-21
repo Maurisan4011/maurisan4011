@@ -38,3 +38,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurisan4011&langs_count=10&hide=RichTextFormat,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+*NOTA: Los idiomas principales no indican mi nivel de habilidad o algo así, es una métrica de github de qué idiomas tengo más código en github, es una nueva característica de github-readme-stats*
+
