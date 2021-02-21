@@ -23,6 +23,8 @@
 <a href="https://codesandbox.com/maurisandev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maurisandev" height="30" width="40" /></a>
 </p>
 
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurisan4011&show_icons=true&theme=tokyonight)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maurisan4011&show_icons=true&locale=en" alt="maurisan4011" /></p>
