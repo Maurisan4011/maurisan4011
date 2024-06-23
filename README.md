@@ -1,6 +1,6 @@
 <p align="left"> <a href="https://twitter.com/maurideveloper" target="blank"><img src="https://img.shields.io/twitter/follow/maurideveloper?logo=twitter&style=for-the-badge" alt="maurideveloper" /></a> </p>
 <h1 align="center">Hi 👋, I'm Mauricio Sanchez</h1>
-<h3 align="center"> #JavaDev & Technical Team Leader en @INTERBANKING | QUARKUS //SpringBoot🍃☕️, React, Js💫, MongoDB🍃, Docker🐳, TDD// #Speaker // Co-Owner #JavaBsAs #JUG #Community //👨🏻‍🏫Docente #JavaFullstack & SeleccionIT Avanzado</h3>
+<h3 align="center"> #JavaDev & Technical Team Leader en @INTERBANKING | QUARKUS //SpringBoot🍃☕️, React, Js💫, MongoDB🍃, Docker🐳, TDD// #Speaker // Co-Owner #JavaBsAs #JUG #Community //👨🏻‍🏫Docente #Desarrollo & SeleccionIT Avanzado</h3>
 
 <a href="https://linkedin.com/in/maurisandev"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://linkedin.com/in/maurisandev">
